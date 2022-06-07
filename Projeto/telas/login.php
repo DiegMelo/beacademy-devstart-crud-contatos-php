@@ -1,5 +1,5 @@
-<h1>Login</h1>
 
+<button type="button" class="btn btn-success"><h4>Login</h4></button>
 <hr>
 <form action="">
     <input class="form-control mb-3" type="text" placeholder="Email">

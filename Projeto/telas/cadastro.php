@@ -1,4 +1,4 @@
-<h1>Novo Contato</h1>
+<button type="button" class="btn btn-success"><h4>Novo Contato</h4></button>
 
 <hr>
 <form action="" method="post">

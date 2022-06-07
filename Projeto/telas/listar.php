@@ -1,12 +1,12 @@
-<h1>Listar Contato</h1>
-
+<button type="button" class="btn btn-success"><h4>Listar Contatos</h4></button>
+<hr>
 <table class="table table-hover table-striped">
     <thead class="table-dark">
         <tr>
             <th>Nome</th>
             <th>Email</th>
-            <th>Telefone<th>
-            <th>Ações<th>
+            <th>Telefone</th>
+            <th>Ações</th>
         </tr>
     </thead>
     <tbody>
